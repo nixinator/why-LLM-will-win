@@ -16,8 +16,8 @@ It's like it's the year 2038 ...TODAY! enjoy!
 
 
 <p align="center">
-  <img src="skynet1.jpg" width="300" alt="NATS Logo">
-  <img src="skynet2.jpg" width="300" alt="NATS Logo">
+  <img src="skynet1.png" width="300" alt="skynet">
+  <img src="skynet2.png" width="300" alt="my father">
 </p>
 
 
