@@ -13,3 +13,11 @@ But what if i asked chatgtp to help me?
 this is a very simple example, but it's been able to solve much more compicated quick hack parsing and processing problems.
 
 It's like it's the year 2038 ...TODAY! enjoy!
+
+
+<p align="center">
+  <img src="skynet1.jpg" width="300" alt="NATS Logo">
+  <img src="skynet2.jpg" width="300" alt="NATS Logo">
+</p>
+
+
